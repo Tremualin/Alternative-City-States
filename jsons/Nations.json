@@ -1,0 +1,607 @@
+[
+	{
+		"name": "Monaco",
+		"adjective": ["Monegasque"],
+		"cityStateType": "Monaco-type",
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [218, 93, 255],
+		"cities": ["Monaco"]
+	},
+	{
+		"name": "Hanoi",
+		"adjective": ["Hanoi"],
+		"cityStateType": "Hanoi-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [218, 93, 255],
+		"cities": ["Hanoi"]
+	},
+	{
+		"name": "Jolo",
+		"adjective": ["Joloan"],
+		"cityStateType": "Jolo-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [56, 255, 112],
+		"cities": ["Jolo"]
+	},
+	{
+		"name": "Kathmandu",
+		"adjective": ["Nepali"],
+		"cityStateType": "Kathmandu-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Kathmandu"]
+	},
+	{
+		"name": "Andorra",
+		"adjective": ["Andorran"],
+		"cityStateType": "Andorra-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Andorra"]
+	},
+	{
+		"name": "Nuuk",
+		"adjective": ["Nuuk"],
+		"cityStateType": "Nuuk-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [90, 175, 255],
+		"cities": ["Nuuk"]
+	},
+	{
+		"name": "Caguana",
+		"adjective": ["Caguanian"],
+		"cityStateType": "Caguana-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [218, 93, 255],
+		"cities": ["Caguana"]
+	},
+	{
+		"name": "Cape Town",
+		"adjective": ["Cape Town"],
+		"cityStateType": "Cape Town-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Cape Town"]
+	},
+	{
+		"name": "Riga",
+		"adjective": ["Riga"],
+		"cityStateType": "Riga-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [218, 93, 255],
+		"cities": ["Riga"]
+	},
+	{
+		"name": "Phnom Penh",
+		"adjective": ["Phnom Penh"],
+		"cityStateType": "Phnom Penh-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [218, 93, 255],
+		"cities": ["Phnom Penh"]
+	},
+	{
+		"name": "Paramaribo",
+		"adjective": ["Surinamese"],
+		"cityStateType": "Paramaribo-type",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [56, 255, 112],
+		"cities": ["Paramaribo"]
+	},
+	{
+		"name": "Kingston",
+		"adjective": ["Kingston"],
+		"cityStateType": "Kingston-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Kingston"]
+	},
+	{
+		"name": "Ormus",
+		"adjective": ["Ormus"],
+		"cityStateType": "Ormus-type",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Ormus"]
+	},
+	{
+		"name": "Panama City",
+		"adjective": ["Panamanian"],
+		"cityStateType": "Panama City-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Panama City"]
+	},
+	{
+		"name": "Port-au-Prince",
+		"adjective": ["Haitian"],
+		"cityStateType": "Port-au-Prince-type",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Port-au-Prince"]
+	},
+	{
+		"name": "Vaduz",
+		"adjective": ["Vaduz"],
+		"cityStateType": "Vaduz-type",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Vaduz"]
+	},
+	{
+		"name": "Malacca",
+		"adjective": ["Malaccan"],
+		"cityStateType": "Malacca-type",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Malacca"]
+	},
+	{
+		"name": "Thimphu",
+		"adjective": ["Thimphu"],
+		"cityStateType": "Thimphu-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Thimphu"]
+	},
+	{
+		"name": "Dubai",
+		"adjective": ["Emirati"],
+		"cityStateType": "Dubai-type",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Dubai"]
+	},
+	{
+		"name": "Lusaka",
+		"adjective": ["Lusaka"],
+		"cityStateType": "Lusaka-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 145, 75],
+		"cities": ["Lusaka"]
+	},
+	{
+		"name": "Mohenjo-Daro",
+		"adjective": ["Mohenjo-Daro"],
+		"cityStateType": "Mohenjo-Daro-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [218, 93, 255],
+		"cities": ["Mohenjo-Daro"]
+	},
+	{
+		"name": "Lagos",
+		"adjective": ["Lagos"],
+		"cityStateType": "Lagos-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Lagos"]
+	},
+	{
+		"name": "Baku",
+		"adjective": ["Baku"],
+		"cityStateType": "Baku-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 145, 75],
+		"cities": ["Baku"]
+	},
+	{
+		"name": "Tirana",
+		"adjective": ["Tirana"],
+		"cityStateType": "Tirana-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [218, 93, 255],
+		"cities": ["Tirana"]
+	},
+	{
+		"name": "Kabongo",
+		"adjective": ["Kabongo"],
+		"cityStateType": "Kabongo-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 86, 77],
+		"cities": ["Kabongo"]
+	},
+	{
+		"name": "Colchis",
+		"adjective": ["Colchis"],
+		"cityStateType": "Colchis-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Colchis"]
+	},
+	{
+		"name": "Valletta",
+		"adjective": ["Maltese"],
+		"cityStateType": "Valetta-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 86, 77],
+		"cities": ["Valletta"]
+	},
+	{
+		"name": "Cyrene",
+		"adjective": ["Cyrene"],
+		"cityStateType": "Cyrene-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [218, 93, 255],
+		"cities": ["Cyrene"]
+	},
+	{
+		"name": "Havana",
+		"adjective": ["Havana"],
+		"cityStateType": "Havana-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [218, 93, 255],
+		"cities": ["Havana"]
+	},
+	{
+		"name": "Troy",
+		"adjective": ["Troy"],
+		"cityStateType": "Troy-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 86, 77],
+		"cities": ["Troy"]
+	},
+	{
+		"name": "Qufu",
+		"adjective": ["Qufu"],
+		"cityStateType": "Qufu-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [218, 93, 255],
+		"cities": ["Qufu"]
+	},
+	{
+		"name": "Wittenberg",
+		"adjective": ["Wittenberg"],
+		"cityStateType": "Wittenberg-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Wittenberg"]
+	},
+	{
+		"name": "Chinguetti",
+		"adjective": ["Chinguetti"],
+		"cityStateType": "Chinguetti-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Chinguetti"]
+	},
+	{
+		"name": "Kandy",
+		"adjective": ["Kandy"],
+		"cityStateType": "Kandy-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Kandy"]
+	},
+	{
+		"name": "La Venta",
+		"adjective": ["La Venta"],
+		"cityStateType": "La Venta-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["La Venta"]
+	},
+	{
+		"name": "Cahokia",
+		"adjective": ["Cahokia"],
+		"cityStateType": "Cahokia-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Cahokia"]
+	},
+	{
+		"name": "Tallinn",
+		"adjective": ["Tallinn"],
+		"cityStateType": "Tallinn-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 145, 75],
+		"cities": ["Tallinn"]
+	},
+	{
+		"name": "Colombo",
+		"adjective": ["Colombo"],
+		"cityStateType": "Colombo-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Colombo"]
+	},
+	{
+		"name": "Fez",
+		"adjective": ["Fez"],
+		"cityStateType": "Fez-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [90, 175, 255],
+		"cities": ["Fez"]
+	},
+	{
+		"name": "Geneva",
+		"adjective": ["Geneva"],
+		"cityStateType": "Geneva-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [90, 175, 255],
+		"cities": ["Geneva"]
+	},
+	{
+		"name": "Mitla",
+		"adjective": ["Mitla"],
+		"cityStateType": "Mitla-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [218, 93, 255],
+		"cities": ["Mitla"]
+	},
+	{
+		"name": "Ife",
+		"adjective": ["Ife"],
+		"cityStateType": "Ife-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Ife"]
+	},
+	{
+		"name": "Nalanda",
+		"adjective": ["Nalanda"],
+		"cityStateType": "Nalanda-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [90, 175, 255],
+		"cities": ["Nalanda"]
+	},
+	{
+		"name": "Djibouti",
+		"adjective": ["Djiboutian"],
+		"cityStateType": "Djibouti-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 216, 0],
+		"cities": ["Djibouti"]
+	},
+	{
+		"name": "Singapore",
+		"adjective": ["Singaporean"],
+		"cityStateType": "Singapore-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 145, 75],
+		"cities": ["Singapore"]
+	},
+	{
+		"name": "Auckland",
+		"adjective": ["Auckland"],
+		"cityStateType": "Auckland-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 145, 75],
+		"cities": ["Auckland"]
+	},
+	{
+		"name": "Hong Kong",
+		"adjective": ["Hong Kong"],
+		"cityStateType": "Hong Kong-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 145, 75],
+		"cities": ["Hong Kong"]
+	},
+	{
+		"name": "Lima",
+		"adjective": ["Lima"],
+		"cityStateType": "Lima-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 145, 75],
+		"cities": ["Lima"]
+	},
+	{
+		"name": "Gaborone",
+		"adjective": ["Gaborone"],
+		"cityStateType": "Gaborone-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 145, 75],
+		"cities": ["Gaborone"]
+	},
+	{
+		"name": "Santo Domingo",
+		"adjective": ["Santo Domingo"],
+		"cityStateType": "Santo Domingo-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [56, 255, 112],
+		"cities": ["Santo Domingo"]
+	}
+]
