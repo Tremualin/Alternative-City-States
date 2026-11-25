@@ -35,6 +35,42 @@
 		"cities": ["Jolo"]
 	},
 	{
+        "name": "Bangkok",
+        "adjective": ["Bangkokian"],
+        "cityStateType": "Bangkok-type",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+		"innerColor": [56, 255, 112],
+        "uniques": [],
+        "cities": ["Bangkok"]
+    },
+	{
+        "name": "Bridgetown",
+        "adjective": ["Barbadian"],
+        "cityStateType": "Bridgetown-type",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+		"innerColor": [56, 255, 112],
+        "uniques": [],
+        "cities": ["Bridgetown"]
+    },
+    {
+        "name": "Kampala",
+        "adjective": ["Kampalan"],
+        "cityStateType": "Kampala-type",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+		"innerColor": [56, 255, 112],
+        "uniques": [],
+        "cities": ["Kampala"]
+    },
+	{
 		"name": "Kathmandu",
 		"adjective": ["Nepali"],
 		"cityStateType": "Kathmandu-type",
@@ -70,6 +106,54 @@
 		"innerColor": [90, 175, 255],
 		"cities": ["Nuuk"]
 	},
+	{
+        "name": "Chaco Canyon",
+        "adjective": ["Chacoan"],
+        "cityStateType": "Chaco Canyon-type",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+		"innerColor": [90, 175, 255],
+        "uniques": [],
+        "cities": ["Chaco Canyon"]
+    },
+    {
+        "name": "Gundeshapur",
+        "adjective": ["Gundeshapurian"],
+        "cityStateType": "Gundeshapur-type",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+		"innerColor": [90, 175, 255],
+        "uniques": [],
+        "cities": ["Gundeshapur"]
+    },
+    {
+        "name": "Dunedin",
+        "adjective": ["Dunedinite"],
+        "cityStateType": "Dunedin-type",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+		"innerColor": [90, 175, 255],
+        "uniques": [],
+        "cities": ["Dunedin"]
+    },
+    {
+        "name": "Islamabad",
+        "adjective": ["Islamabadi"],
+        "cityStateType": "Islamabad-type",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+		"innerColor": [90, 175, 255],
+        "uniques": [],
+        "cities": ["Islamabad"]
+    },
 	{
 		"name": "Caguana",
 		"adjective": ["Caguanian"],
@@ -140,7 +224,7 @@
 		"attacked": "Very well, we will kick you back to the ancient era!",
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255, 216, 0],
+		"innerColor": [56, 255, 112],
 		"cities": ["Kingston"]
 	},
 	{
@@ -265,7 +349,7 @@
 		"attacked": "Very well, we will kick you back to the ancient era!",
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255, 216, 0],
+		"innerColor": [218, 93, 255],
 		"cities": ["Lagos"]
 	},
 	{
@@ -319,7 +403,7 @@
 	{
 		"name": "Valletta",
 		"adjective": ["Maltese"],
-		"cityStateType": "Valetta-type",
+		"cityStateType": "Valletta-type",
 
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
 		"attacked": "Very well, we will kick you back to the ancient era!",
@@ -328,6 +412,54 @@
 		"innerColor": [255, 86, 77],
 		"cities": ["Valletta"]
 	},
+	{
+		"name": "Bamiyan",
+		"adjective": ["Afghans"],
+		"cityStateType": "Bamiyan-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 86, 77],
+		"cities": ["Bamiyan"]
+	},
+	{
+		"name": "Cetinje",
+		"adjective": ["Cetinjani"],
+		"cityStateType": "Cetinje-type",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 86, 77],
+		"cities": ["Cetinje"]
+	},
+    {
+        "name": "Kyzyl",
+        "adjective": ["Kyzyl"],
+        "cityStateType": "Kyzyl-type",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+		"innerColor": [255, 86, 77],
+        "uniques": [],
+        "cities": ["Kyzyl"]
+    },
+    {
+        "name": "Harappa",
+        "adjective": ["Harappan"],
+        "cityStateType": "Harappa-type",
+        "declaringWar": "We have wanted this for a LONG time. War it shall be.",
+        "attacked": "Very well, we will kick you back to the ancient era!",
+        "defeated": "This isn't how it is supposed to be!",
+        "outerColor": [0, 0, 0],
+		"innerColor": [255, 86, 77],
+        "uniques": [],
+        "cities": ["Harappa"]
+    },
 	{
 		"name": "Cyrene",
 		"adjective": ["Cyrene"],
@@ -433,8 +565,30 @@
 		"attacked": "Very well, we will kick you back to the ancient era!",
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255, 255, 255],
+		"innerColor": [56, 255, 112],
 		"cities": ["Cahokia"]
+	},
+	{
+		"name": "Montevideo",
+		"adjective": ["Montevideanos"],
+		"cityStateType": "Montevideo-type",
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [56, 255, 112],
+		"cities": ["Montevideo"]
+	},
+	{
+		"name": "Tórshavn",
+		"adjective": ["Tórshavnfólk"],
+		"cityStateType": "Tórshavn-type",
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [56, 255, 112],
+		"cities": ["Tórshavn"]
 	},
 	{
 		"name": "Tallinn",

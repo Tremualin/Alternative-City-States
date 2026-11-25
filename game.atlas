@@ -88,6 +88,13 @@ CityStateIcons/Cyrene-type
   orig: 100, 100
   offset: 0, 0
   index: -1
+CityStateIcons/Lagos-type
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 CityStateIcons/Baku-type
   rotate: false
   xy: 112, 4
@@ -172,14 +179,49 @@ CityStateIcons/Jolo-type
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Colchis-type
+CityStateIcons/Kingston-type
   rotate: false
-  xy: 328, 4
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Lagos-type
+CityStateIcons/Bangkok-type
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Kampala-type
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Montevideo-type
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Bridgetown-type
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Tórshavn-type
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Colchis-type
   rotate: false
   xy: 328, 4
   size: 100, 100
@@ -249,13 +291,6 @@ CityStateIcons/Vaduz-type
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Kingston-type
-  rotate: false
-  xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 CityStateIcons/Port-au-Prince-type
   rotate: false
   xy: 328, 4
@@ -263,7 +298,42 @@ CityStateIcons/Port-au-Prince-type
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Valetta-type
+CityStateIcons/Gorkha-type
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Cetinje-type
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Bamiyan-type
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Harappa-type
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Kyzyl-type
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Valletta-type
   rotate: false
   xy: 436, 4
   size: 100, 100
@@ -355,6 +425,34 @@ CityStateIcons/Fez-type
   offset: 0, 0
   index: -1
 CityStateIcons/Nuuk-type
+  rotate: false
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Chaco Canyon-type
+  rotate: false
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Gundeshapur-type
+  rotate: false
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Dunedin-type
+  rotate: false
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Islamabad-type
   rotate: false
   xy: 652, 4
   size: 100, 100
