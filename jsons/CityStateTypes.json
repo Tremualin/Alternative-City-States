@@ -100,13 +100,13 @@
         "name": "Nuuk-type",
         "friendBonusUniques":  [
             "[+4 Science] <for every [1 + floor([Era number] / 2)]>",
-            "[+1 Food, +1 Production] from [Tundra] tiles",
-            "[+1 Food, +1 Production] from [Snow] tiles"
+            "[+1 Food, +1 Production] from every [Tundra]",
+            "[+1 Food, +1 Production] from every [Snow]"
         ],
         "allyBonusUniques":  [
             "[+8 Science] <for every [1 + floor([Era number] / 2)]>",
-            "[+2 Food, +2 Production] from [Tundra] tiles",
-            "[+3 Food, +3 Production] from [Snow] tiles"
+            "[+2 Food, +2 Production] from every [Tundra]",
+            "[+3 Food, +3 Production] from every [Snow]"
         ],
         "color": [90, 175, 255],
     },
